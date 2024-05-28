@@ -16,10 +16,11 @@
 #define TLE5012_CONF_OPTS_HPP_
 
 //!< \brief List of available platforms
-#define TLE5012_FRMWK_ARDUINO   0x01U
-#define TLE5012_FRMWK_WICED     0x02U
-#define TLE5012_FRMWK_MTB       0x03U
-#define TLE5012_FRMWK_PSOC      0x04U
+#define TLE5012_FRMWK_ARDUINO 0x01U
+#define TLE5012_FRMWK_WICED 0x02U
+#define TLE5012_FRMWK_MTB 0x03U
+#define TLE5012_FRMWK_PSOC 0x04U
+#define TLE5012_FRMWK_HAL 0x05U
 
 /** @} */
 
